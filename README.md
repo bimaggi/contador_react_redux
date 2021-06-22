@@ -21,7 +21,7 @@ Envolvemos o retorno do aquivo principal com as tags Provider e passamos por atr
 
 
 Dentro dos componentes será necessário
-#### import {useSelector, useDispatch}from'react-redux';
+#### import {useSelector, useDispatch} from 'react-redux';
 
 
 Criamos uma variável que vai receber o useSelector e este vai receber uma função que vai retornar o state.
