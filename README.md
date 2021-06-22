@@ -17,7 +17,7 @@ Criamos então uma variável que vai receber o createStore e atribuímos à ela 
 Por fim precisamos disponibilizar e tornar acessivel essa váriavel para todos os componentes
 ### import { Provider } from 'react-redux'
 
-Envolvemos o retorno do aquivo principal com as tags/<Provider> </Provider>/ e atribuimos à ela uma propriedade que receba a variavel que contém o createStore.
+Envolvemos o retorno do aquivo principal com as tags Provider e passamos por atributo a variavel que contém o createStore.
 
 Dentro dos componentes será necessário
 ### import {useSelector, useDispatch}from'react-redux';
