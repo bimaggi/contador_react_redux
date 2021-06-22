@@ -2,7 +2,7 @@
 Projeto sugerido no curso Desenvolvimento Web Progbr
 
 Criamos o diretório com o comando 
-## npx create-react-app contador_redux_react
+#### npx create-react-app contador_redux_react
 
 É Necessário instalar também o redux e react-redux
 ### npm install redux react-redux
